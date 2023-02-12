@@ -1,0 +1,15 @@
+D:\1B-C#\Seminar1_HW\Задача 4\bin\Debug\net6.0\Задача 4.exe
+D:\1B-C#\Seminar1_HW\Задача 4\bin\Debug\net6.0\Задача 4.deps.json
+D:\1B-C#\Seminar1_HW\Задача 4\bin\Debug\net6.0\Задача 4.runtimeconfig.json
+D:\1B-C#\Seminar1_HW\Задача 4\bin\Debug\net6.0\Задача 4.dll
+D:\1B-C#\Seminar1_HW\Задача 4\bin\Debug\net6.0\Задача 4.pdb
+D:\1B-C#\Seminar1_HW\Задача 4\obj\Debug\net6.0\Задача 4.csproj.AssemblyReference.cache
+D:\1B-C#\Seminar1_HW\Задача 4\obj\Debug\net6.0\Задача 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\1B-C#\Seminar1_HW\Задача 4\obj\Debug\net6.0\Задача 4.AssemblyInfoInputs.cache
+D:\1B-C#\Seminar1_HW\Задача 4\obj\Debug\net6.0\Задача 4.AssemblyInfo.cs
+D:\1B-C#\Seminar1_HW\Задача 4\obj\Debug\net6.0\Задача 4.csproj.CoreCompileInputs.cache
+D:\1B-C#\Seminar1_HW\Задача 4\obj\Debug\net6.0\Задача 4.dll
+D:\1B-C#\Seminar1_HW\Задача 4\obj\Debug\net6.0\refint\Задача 4.dll
+D:\1B-C#\Seminar1_HW\Задача 4\obj\Debug\net6.0\Задача 4.pdb
+D:\1B-C#\Seminar1_HW\Задача 4\obj\Debug\net6.0\Задача 4.genruntimeconfig.cache
+D:\1B-C#\Seminar1_HW\Задача 4\obj\Debug\net6.0\ref\Задача 4.dll
